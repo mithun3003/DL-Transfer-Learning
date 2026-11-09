@@ -15,7 +15,8 @@ To develop a deep learning classification model that accurately identifies and c
 - Dataset Type: Image classification
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="2172" height="724" alt="b7604526-0f77-4632-b274-b9a42399f583" src="https://github.com/user-attachments/assets/f70f03ea-4bab-451b-902d-18e26193aa55" />
 
 ## DESIGN STEPS
 
